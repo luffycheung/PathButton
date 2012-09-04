@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="offset">15dp</dimen>
+    <dimen name="degrees">60dp</dimen>
+
+</resources>
